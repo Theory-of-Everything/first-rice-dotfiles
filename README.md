@@ -11,4 +11,4 @@ Specs:
 
 Note:
 
-This was build on a VM (and i am an idiot), so expect some very off things.
+This was built on a VM (and I am an idiot), so expect some very odd things to be lurking around the corners.
