@@ -1,4 +1,5 @@
 # Theory's First Rice Files
+Note: This repo is less active, check out the [mirror repo](https://gitlab.com/Theory_of_Everything/first-rice-dotfiles) for more recent updates
 
 My First Attempt at ricing a base Void Linux Install.
 
